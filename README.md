@@ -79,8 +79,8 @@ La implementación del patrón MVC y la gestión de la aplicación se distribuye
 A continuación se muestra el correcto funcionamiento de la interfaz gráfica y la navegación del sistema:
 
 ### Catálogo Principal de Destinos
-![Catálogo de Destinos](principal.png)
+![Catálogo de Destinos](Principal.png)
 
 ### Vista de Detalle y Formulario de Contacto
-![Detalle del Destino](boqueron-info.png)
-![Detalle del Destino](boqueron-soli.png)
+![Detalle del Destino](Boqueron-info.png)
+![Detalle del Destino](Boqueron-soli.png)
