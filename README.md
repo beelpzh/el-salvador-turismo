@@ -76,4 +76,6 @@ La implementación del patrón MVC y la gestión de la aplicación se distribuye
 
 ## 📸 Capturas de Pantalla del Sistema
 
-A continuación se muestra el correcto funcionamiento de la interfaz gráfica y la navegación del sistema:
+A continuación se muestra el correcto funcionamiento de la interfaz gráfica y la navegación del sistema:<img width="1911" height="948" alt="Principal" src="https://github.com/user-attachments/assets/29362e07-89bf-4cb0-bcaa-2ce22d10e8b8" />
+<img width="1894" height="998" alt="Boqueron info" src="https://github.com/user-attachments/assets/6fa52697-4b08-4c88-a2ec-0105df4d7269" />
+<img width="1897" height="651" alt="Boqueron soli" src="https://github.com/user-attachments/assets/37f9f003-0863-462f-aa12-1ddf73f02407" />
