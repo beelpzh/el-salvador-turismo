@@ -8,7 +8,7 @@ Proyecto evaluado sobre la implementación del patrón arquitectónico Modelo-Vi
 
 bash
 
-git clone <URL_DE_TU_REPOSITORIO>
+git clone <http://github.com/beelpzh/el-salvador-turismo.git>
 cd el-salvador-turismo
 
 Usa el código con precaución.
