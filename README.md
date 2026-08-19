@@ -82,5 +82,5 @@ A continuación se muestra el correcto funcionamiento de la interfaz gráfica y 
 ![Catálogo de Destinos](principal.png)
 
 ### Vista de Detalle y Formulario de Contacto
-![Detalle del Destino](boqueron info.png)
-![Detalle del Destino](boqueron soli.png)
+![Detalle del Destino](boqueron-info.png)
+![Detalle del Destino](boqueron-soli.png)
