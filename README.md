@@ -73,3 +73,14 @@ La implementación del patrón MVC y la gestión de la aplicación se distribuye
 * **Rutas:** routes/web.php — Intercepta las solicitudes HTTP y las deriva al controlador.
 * **Vistas:** resources/views/lugares/ — Contiene las plantillas Blade con el diseño en Bootstrap.
 * **Fuente de Datos:** storage/app/lugares.json — Archivo estructurado con la información de los destinos.
+
+## 📸 Capturas de Pantalla del Sistema
+
+A continuación se muestra el correcto funcionamiento de la interfaz gráfica y la navegación del sistema:
+
+### Catálogo Principal de Destinos
+![Catálogo de Destinos](principal.png)
+
+### Vista de Detalle y Formulario de Contacto
+![Detalle del Destino](boqueron info.png)
+![Detalle del Destino](boqueron soli.png)
