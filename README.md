@@ -77,10 +77,3 @@ La implementación del patrón MVC y la gestión de la aplicación se distribuye
 ## 📸 Capturas de Pantalla del Sistema
 
 A continuación se muestra el correcto funcionamiento de la interfaz gráfica y la navegación del sistema:
-
-### Catálogo Principal de Destinos
-![Catálogo de Destinos](Principal.jfif)
-
-### Vista de Detalle y Formulario de Contacto
-![Detalle del Destino](Boqueron-info.jfif)
-![Detalle del Destino](Boqueron-soli.jfif)
